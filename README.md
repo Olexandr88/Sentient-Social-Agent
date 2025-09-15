@@ -29,7 +29,7 @@
         <img alt="GitHub release" src="https://img.shields.io/badge/Release-Beta-yellow">
     </a>
     <!-- License -->
-    <a href="https://github.com/sentient-agi/Sentient-Social-Agent/tree/main?tab=Apache-2.0-1-ov-file">
+    <a href="https://github.com/sentient-agi/Sentient-Social-Agent/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-Apache_2.0-green">
     </a>
 </p>
